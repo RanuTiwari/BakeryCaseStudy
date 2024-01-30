@@ -1,0 +1,110 @@
+body{ 
+    margin:0;
+    text-align: center;
+    font-family:  sans-serif;
+    color: #40514E; 
+    ;
+}
+
+h1{font-size: 90px;
+    margin: 50px auto 0 auto;
+font-family: "Sofia", sans-serif;
+color: #9be595;
+
+}  
+
+h2{font-family: sacramento, cursive;
+font-size: 2.5rem;
+color: #9be595;
+font-weight: normal;
+padding-bottom: 10px;
+}
+
+h3{color: #163c22;}
+
+a{color: #163c22;
+    font-family: Montserrat, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;}
+    
+a:hover{color: #EAF6F6;}
+    
+.copyright{color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px o;}
+
+
+
+.bottom-container{ background-color: #9be595;
+            padding: 50px 0 20px;}
+            
+        
+
+/*Navigation-bar*/
+
+.navbar{
+    overflow: hidden;
+    background-color: #9be595;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-bottom: 0 0 4.5rem;
+}
+
+
+ .navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-right: 170px;
+}
+
+.nav-item{
+    padding: 0 8px;}
+
+.nav-link:hover{
+        color: #40514E;}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    color: #ffffff;
+}
+
+
+.navbar-nav{padding-left:0px;}
+
+.Slides {
+    margin-top: 50px ;
+}
+
+.btn {
+    background: #9be595;
+    background-image: -webkit-linear-gradient(top, #9be595);
+    background-image: -moz-linear-gradient(top, #9be595);
+    background-image: -ms-linear-gradient(top, #9be595);
+    background-image: -o-linear-gradient(top, #9be595);
+    background-image: linear-gradient(to bottom, #9be595);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #111111;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #Ccf2ca;
+    background-image: -webkit-linear-gradient(top, #ccf2ca, #ccf2ca);
+    background-image: -moz-linear-gradient(top, #ccf2ca, #ccf2ca);
+    background-image: -ms-linear-gradient(top, #ccf2ca, #ccf2ca);
+    background-image: -o-linear-gradient(top, #ccf2ca, #ccf2ca);
+    background-image: linear-gradient(to bottom, #ccf2ca, #ccf2ca);
+    text-decoration: none;
+  }
+
+
+  .footer-link i {
+    margin-right: 5px;}
